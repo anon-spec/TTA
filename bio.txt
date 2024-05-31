@@ -1,5 +1,3 @@
 bio.txt
 
 Hello World!
-
-Adding change here.
